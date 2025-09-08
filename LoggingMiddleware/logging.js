@@ -1,14 +1,10 @@
-// src/LoggingMiddleware/logging.js
-
 const API_BASE = "http://20.244.56.144/evaluation-service";
-
-// NOTE: Replace these values with your real details
 const email = "abhay.awasthi1357@gmail.com";
 const name = "Abhay070";
 const rollNo = "2201641520201";
 const accessCode = "sAWTuR"; 
-const clientID = "";     // from registration API response
-const clientSecret = ""; // from registration API response
+const clientID = "";    
+const clientSecret = ""; 
 
 // Token cache
 let token = null;
