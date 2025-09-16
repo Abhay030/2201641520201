@@ -2,6 +2,12 @@
 
 A React-based URL shortener application that allows users to create shortened URLs with custom options and analytics.
 
+## 🚀 Live Demo
+
+**[Try the live application here!](https://url-shortner-khped1dig-abhay030s-projects.vercel.app)**
+
+Deployed on Vercel with automatic HTTPS and global CDN.
+
 ## Features
 
 - **Concurrent URL Shortening**: Shorten up to 5 URLs simultaneously
