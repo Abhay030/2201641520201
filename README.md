@@ -21,7 +21,7 @@ A React-based URL shortener application that allows users to create shortened UR
 
 1. Navigate to the project directory:
 ```bash
-cd C:\Users\2022c\OneDrive\Desktop\2201641520201
+cd \Desktop\2201641520201
 ```
 
 2. Install dependencies:
